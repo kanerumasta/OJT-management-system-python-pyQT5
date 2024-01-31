@@ -1,0 +1,55 @@
+<RCC>
+  <qresource prefix="images">
+    <file>icons/icons8-active-user-64.png</file>
+    <file>icons/school_dashboard_icon.png</file>
+    <file>images/dashboard1.jpg</file>
+    <file>images/gradient1.jpg</file>
+    <file>images/registerbackground.jpg</file>
+    <file>images/welcomeScreen.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>icons/bell-32.png</file>
+    <file>icons/icons8-closed-eye-48.png</file>
+    <file>icons/combo-32.png</file>
+    <file>icons/settings-23-32.png</file>
+    <file>icons/whitearrowdown.png</file>
+    <file>icons/dropfull.png</file>
+    <file>icons/dropdownarrow.png</file>
+    <file>icons/calendar.png</file>
+    <file>icons/tasks.png</file>
+    <file>icons/search.png</file>
+    <file>icons/arrow_right.png</file>
+    <file>icons/arrow_left.png</file>
+    <file>icons/collapse.png</file>
+    <file>icons/menu.png</file>
+    <file>icons/expandmenu.png</file>
+    <file>icons/warning.png</file>
+    <file>icons/pngwing.com.png</file>
+    <file>icons/800px-Sign-check-icon.png</file>
+    <file>icons/teamwork.png</file>
+    <file>icons/back.png</file>
+    <file>icons/add-user-48.png</file>
+    <file>icons/administrator-64.png</file>
+    <file>icons/available-updates-48.png</file>
+    <file>icons/conference-call-64.png</file>
+    <file>icons/delete-32.png</file>
+    <file>icons/edit-32.png</file>
+    <file>icons/email-12-24.png</file>
+    <file>icons/eye.png</file>
+    <file>icons/fullscreen-11-48.png</file>
+    <file>icons/fullscreen-exit-48.png</file>
+    <file>icons/key.png</file>
+    <file>icons/lock-24.png</file>
+    <file>icons/locked.png</file>
+    <file>icons/login-48.png</file>
+    <file>icons/logout-48.png</file>
+    <file>icons/phone-24.png</file>
+    <file>icons/plus-4-32.png</file>
+    <file>icons/save-48.png</file>
+    <file>icons/school-24.png</file>
+    <file>icons/school-64.png</file>
+    <file>icons/unlock.png</file>
+    <file>icons/user-24.png</file>
+    <file>icons/window-apps-64.png</file>
+  </qresource>
+</RCC>
