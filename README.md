@@ -1,2 +1,2 @@
-"# ojt_management_system" 
-"# OJT-Management-System" 
+## OJT MANAGEMENT SYSTEM
+![Alt text]()
